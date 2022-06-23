@@ -1,0 +1,15 @@
+C:\Users\chron\Desktop\Обучение\CSharp\C#1\Test001\bin\Debug\net6.0\Test001.exe
+C:\Users\chron\Desktop\Обучение\CSharp\C#1\Test001\bin\Debug\net6.0\Test001.deps.json
+C:\Users\chron\Desktop\Обучение\CSharp\C#1\Test001\bin\Debug\net6.0\Test001.runtimeconfig.json
+C:\Users\chron\Desktop\Обучение\CSharp\C#1\Test001\bin\Debug\net6.0\Test001.dll
+C:\Users\chron\Desktop\Обучение\CSharp\C#1\Test001\bin\Debug\net6.0\Test001.pdb
+C:\Users\chron\Desktop\Обучение\CSharp\C#1\Test001\obj\Debug\net6.0\Test001.csproj.AssemblyReference.cache
+C:\Users\chron\Desktop\Обучение\CSharp\C#1\Test001\obj\Debug\net6.0\Test001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chron\Desktop\Обучение\CSharp\C#1\Test001\obj\Debug\net6.0\Test001.AssemblyInfoInputs.cache
+C:\Users\chron\Desktop\Обучение\CSharp\C#1\Test001\obj\Debug\net6.0\Test001.AssemblyInfo.cs
+C:\Users\chron\Desktop\Обучение\CSharp\C#1\Test001\obj\Debug\net6.0\Test001.csproj.CoreCompileInputs.cache
+C:\Users\chron\Desktop\Обучение\CSharp\C#1\Test001\obj\Debug\net6.0\Test001.dll
+C:\Users\chron\Desktop\Обучение\CSharp\C#1\Test001\obj\Debug\net6.0\refint\Test001.dll
+C:\Users\chron\Desktop\Обучение\CSharp\C#1\Test001\obj\Debug\net6.0\Test001.pdb
+C:\Users\chron\Desktop\Обучение\CSharp\C#1\Test001\obj\Debug\net6.0\Test001.genruntimeconfig.cache
+C:\Users\chron\Desktop\Обучение\CSharp\C#1\Test001\obj\Debug\net6.0\ref\Test001.dll
